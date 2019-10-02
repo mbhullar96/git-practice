@@ -1,3 +1,3 @@
 # Learning Git
 ## With Chris.P
-### With the Shafeeq
+### And with the wonderful Shafeeq
